@@ -1,0 +1,23 @@
+# Eclipse project files
+wfx-api/.classpath
+wfx-core/.classpath
+.settings/
+.DS_Store
+.externalToolBuilders
+
+# Intellij project files
+*.iml
+.idea/
+
+# generated files
+src/main/webapp/META-INF/*
+target/
+bin/
+gen/
+logs/
+/src/main/webapp/ydp_prj.sublime-workspace
+/src/main/webapp/ydp_prj.sublime-project
+
+# excel file
+*.xls
+*.xlsx
