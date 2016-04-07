@@ -1,7 +1,7 @@
 package com.john.model;
 
 public class User {
-	/** 用户id **/
+	/** 用户id1 **/
 	private Integer userId;
 	
 	/** 用户名称 **/
